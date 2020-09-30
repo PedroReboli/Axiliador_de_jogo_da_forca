@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.Form1.resources
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.Properties.Resources.resources
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\bin\Debug\Auxiliador_jogo_da_forca.exe.config
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\bin\Debug\Auxiliador_jogo_da_forca.exe
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\bin\Debug\Auxiliador_jogo_da_forca.pdb
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.exe
+C:\Users\pedro\source\repos\Auxiliador_jogo_da_forca\Auxiliador_jogo_da_forca\obj\Debug\Auxiliador_jogo_da_forca.pdb
